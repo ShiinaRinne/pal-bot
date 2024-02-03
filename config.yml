@@ -1,0 +1,6 @@
+admin:
+backup_path: /home/ubuntu/pal-bak/
+game_saved_path: /home/ubuntu/Steam/steamapps/common/PalServer/Pal/Saved
+prefixes:
+- /
+token: 
